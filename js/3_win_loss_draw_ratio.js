@@ -31,7 +31,7 @@ var button0 = buttonContainer.createChild(am4core.Button);
     button0.width = 250
     button0.background.fill = am4core.color("#B2BABB");
 
-    button0.tooltipHTML = "<img src='../img/Other.png' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button0.tooltipHTML = "<img src='img/Other.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button0.tooltip.getFillFromObject = false;
     button0.tooltip.background.fill = am4core.color("#85C1E9");
     button0.tooltip.getStrokeFromObject = true;
@@ -50,7 +50,7 @@ var button1 = buttonContainer.createChild(am4core.Button);
     button1.background.fill = am4core.color("#B2BABB");
 
 
-    button1.tooltipHTML = "<img src='../img/Sicilian Defense.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button1.tooltipHTML = "<img src='img/Sicilian Defense.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button1.tooltip.getFillFromObject = false;
     button1.tooltip.background.fill = am4core.color("#B2BABB");
     button1.tooltip.getStrokeFromObject = true;
@@ -69,7 +69,7 @@ var button2 = buttonContainer.createChild(am4core.Button);
     button2.width = 250
     button2.background.fill = am4core.color("#B2BABB");
 
-    button2.tooltipHTML = "<img src='../img/Indian Game.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button2.tooltipHTML = "<img src='img/Indian Game.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button2.tooltip.getFillFromObject = false;
     button2.tooltip.background.fill = am4core.color("#FFF");
     button2.tooltip.getStrokeFromObject = true;
@@ -87,7 +87,7 @@ var button3 = buttonContainer.createChild(am4core.Button);
     button3.width = 250
     button3.background.fill = am4core.color("#B2BABB");
 
-    button3.tooltipHTML = "<img src='../img/Reti Opening.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button3.tooltipHTML = "<img src='img/Reti Opening.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button3.tooltip.getFillFromObject = false;
     button3.tooltip.background.fill = am4core.color("#FFF");
     button3.tooltip.getStrokeFromObject = true;
@@ -105,7 +105,7 @@ var button4 = buttonContainer.createChild(am4core.Button);
     button4.width = 250
     button4.background.fill = am4core.color("#B2BABB");
 
-    button4.tooltipHTML = "<img src='../img/French Defense.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button4.tooltipHTML = "<img src='img/French Defense.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button4.tooltip.getFillFromObject = false;
     button4.tooltip.background.fill = am4core.color("#FFF");
     button4.tooltip.getStrokeFromObject = true;
@@ -123,7 +123,7 @@ var button5 = buttonContainer.createChild(am4core.Button);
     button5.width = 250
     button5.background.fill = am4core.color("#B2BABB");
 
-    button5.tooltipHTML = "<img src='../img/Queens Gambit Declined.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button5.tooltipHTML = "<img src='img/Queens Gambit Declined.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button5.tooltip.getFillFromObject = false;
     button5.tooltip.background.fill = am4core.color("#FFF");
     button5.tooltip.getStrokeFromObject = true;
@@ -143,7 +143,7 @@ var button6 = buttonContainer.createChild(am4core.Button);
     button6.width = 250
     button6.background.fill = am4core.color("#B2BABB");
 
-    button6.tooltipHTML = "<img src='../img/Queens Gambit Accepted.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
+    button6.tooltipHTML = "<img src='img/Queens Gambit Accepted.PNG' style='vertical-align:bottom; margin-right: 10px; width:100px; height:100px;'>";
     button6.tooltip.getFillFromObject = false;
     button6.tooltip.background.fill = am4core.color("#FFF");
     button6.tooltip.getStrokeFromObject = true;
