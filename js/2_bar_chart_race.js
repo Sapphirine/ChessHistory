@@ -61,7 +61,7 @@ series.columns.maxColumns = 1
 series.columns.template.column.cornerRadiusTopRight = 5;
 
 series.columns.template.adapter.add('tooltipHTML', function(text, target) {
-    var url = "<body style='background-color:grey'> <img src='../img/"+target.dataItem.categoryY.replace("'","")+ ".png' style='vertical-align:bottom; margin-right: 10px; width:200px; height:200px;'></body>"
+    var url = "<body style='background-color:grey'> <img src='img/"+target.dataItem.categoryY.replace("'","")+ ".PNG' style='vertical-align:bottom; margin-right: 10px; width:200px; height:200px;'></body>"
     return url
 });
 
@@ -107,7 +107,6 @@ function stop() {
 
 function nextYear() {
   year= year + 10
-    console.log(chart.data)
   if (year > 2000) {
     year = 1850
   }
