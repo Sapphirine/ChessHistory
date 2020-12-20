@@ -1,0 +1,283 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Chess - A visual history</title>
+<meta charset="utf-8">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800" rel="stylesheet" type="text/css">
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="css/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
+<script src="js/jquery.dropotron-1.2.js"></script>
+<script src="js/init.js"></script>
+<noscript>
+<link rel="stylesheet" href="css/5grid/core.css">
+<link rel="stylesheet" href="css/5grid/core-desktop.css">
+<link rel="stylesheet" href="css/5grid/core-1200px.css">
+<link rel="stylesheet" href="css/5grid/core-noscript.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style-desktop.css">
+</noscript>
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="css/ie9.css">
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="css/ie8.css">
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="css/ie7.css">
+<![endif]-->
+          <script src="https://www.amcharts.com/lib/4/core.js"></script>
+        <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+        <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+        <script src="js/1_first_move.js" defer></script>
+        <script src="js/2_bar_chart_race.js" defer></script>
+        <script src="js/3_win_loss_draw_ratio.js" defer></script>
+        <script src="js/4_data_summary.js" defer></script>
+        <script src="js/5_player_ELO_over_time.js" defer></script>
+        <script src="js/6_ELO_accuracy.js" defer></script>
+        <script src="js/7_chord_diagram.js" defer></script>
+        <script src="data/out.data"></script>
+
+</head>
+<body class="homepage">
+<div id="header-wrapper">
+  <div class="5grid-layout">
+    <div class="row">
+      <div class="12u">
+
+        <div id="banner">
+          <br>
+          <br>
+          <h2><strong>Chess: A visual history</strong><br>
+            An examination of trends from 1783 to 2007</h2>
+          <br>
+          <br>
+
+          <br>
+          <br>
+          <p>By Chris Charron</p>
+          <br>
+          <br>
+          <br>
+
+      </div>
+    </div>
+  </div>
+</div>
+<div id="main-wrapper">
+  <div class="main-wrapper-style2">
+    <div class="inner">
+      <section class="5grid-layout box-feature2">
+       <div class="row">
+          <div class="12u">
+            <header class="first major">
+              <h2>Introduction</h2>
+              <span class="byline">An overview of the dataset used for analysis</span> </header>
+          </div>
+        </div>
+        <div class="row">
+          <div class="12u">
+            <p align="left">Chess is believed to have been invented in the 6th century, with early records of games following modern rules existing from the 1700s.
+              The game has evolved significantly since then, with interest spiking at various periods of history. Chess was used by politicians to fight a proxy battle
+              during the Cold War between the United States and the USSR, by computer scientists in the 1990s hoping to make progress in the field of artificial intelligence,
+              and finally in 2020 by the entertainment industry to amuse us during the COVID-19 pandemic.
+            </p>
+            <p align="left">
+              Here I use <a href="https://chess-research-project.readthedocs.io/en/latest/">this dataset</a> to try to explore this rich history, mainly with the purpose of understanding trends in:
+            </p>
+            <ol align="left">
+              <li><strong>Opening sequences: </strong> How have first moves changed over time?</li>
+              <li><strong>ELO (player ratings): </strong> How have ratings changed over time?</li>
+            </ol>
+            <p align="left">
+              Finally, at the end I look at head-to-head records for select players
+            </p>
+
+                <!--<img src=-->
+<!--"https://media.geeksforgeeks.org/wp-content/uploads/20190506164011/logo3.png"-->
+         <!--alt="GeeksforGeeks logo"-->
+         <!--align="right">-->
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <div class="main-wrapper-style1">
+    <div class="inner">
+      <section class="5grid-layout box-feature1">
+        <div class="row">
+          <div class="12u">
+            <header class="first major">
+              <h2>First moves</h2>
+              <span class="byline">Examining changes in opening moves over time</span> </header>
+          </div>
+
+
+          <div class="12u">
+            <p align="left">The first couple moves in chess are referred to as the "opening". These moves dictate the tone of the rest of the game,
+            and have been extensively analyzed by professional players for centuries. A player's choice of opening can be a reflection of
+            the particular lines of play that s/he has studied, moves the opponent has not had much experience playing against, or of the type of
+              game the player is trying to play (e.g. aggressive, risky vs. safe).
+            </p>
+
+            <p align="left">White always plays first in chess. Let's first look at the most common first moves selected by white over time.</p>
+
+            <style>
+            #first_move {
+              width: 100%;
+              height: 500px;
+              margin-left:auto;
+              margin-right:auto;
+            }
+          </style>
+          <div id="first_move"></div> <br><br><br>
+
+            <p align="left">Following white's first move, black will respond, and the game continues. The first few moves
+            are usually played quickly as both players are aiming to achieve a particular opening sequence. Next, we will
+            look at which of these openings have been most popular historically. Note, pause the simulation and mouse over
+                the chart to see what the opening looks like. </p>
+
+          <style>
+            #bar_chart_race {
+              width: 100%;
+              height: 500px;
+            }
+
+          </style>
+          <div id="bar_chart_race"></div>
+
+            <br><br>
+            <p align="left">Now that we know what openings were popular at various times in the past, let's try to understand how effective
+                they have been when players used them. The chart below shows the ratio of wins for white, wins for black, and draws.
+                You can hover over the various openings to see how the win rates vary. Note that the chart may look strange in the
+                earlier decades due to lack of sample data.
+
+            </p>
+
+
+          <style>
+              #win_loss_draw_ratio {
+                width: 100%;
+                height: 500px;
+              }
+
+          </style>
+          <div id="win_loss_draw_ratio"></div>
+
+            <br><br>
+            <p  align="left">You can see why the Sicilian Defense is such a popular opening! It gives black the best chance of winning
+            when white plays 1. e4. Similarly, the Indian Games give black the best chance vs. 1. d4. </p>
+
+        </div>
+      </section>
+    </div>
+  </div>
+  <div class="main-wrapper-style2">
+    <div class="inner">
+      <section class="5grid-layout box-feature1">
+        <div class="row">
+          <div class="12u">
+            <header class="first major">
+              <h2>ELO</h2>
+              <span class="byline">Exploring chess' rating system and player performance</span> </header>
+          </div>
+          <div class="12u">
+            <p  align="left">The Elo rating system was created by physics professor Arpad Elo. An avid chess plaeyr, he worked with
+                the US Chess Federation (USCF) to devise a rating system that better reflected player strength.
+            The USCF implemented Elo's rating scheme in 1960, and it was adopted globally by 1970. </p>
+
+            <p  align="left">The premise is simple - if you win a game, your rating will increase, and vice versa.
+            The magnitude of the change is determined by the difference in your rating and your opponent's rating,
+            as well as a "K factor", which can be arbitrarily set by the governing entity. At the moment, the USCF
+            sets K factors differently based on player ratings. Low rated players have a higher K factor, meaning
+            that their ratings jump more upon beating an opponent than a highly rated player would upon beating an
+            opponent of similar relative strength. </p>
+
+            <p  align="left">Elo ratings mean nothing in the absolute. They only have value when comparing them
+            across players. Let's first have a look at our data to see how ELO ratings have evolved over time.
+                Note that as mentioned above, ELO data only exists after 1970</p>
+
+                <style>
+        #data_summary {
+          width: 100%;
+          height: 500px;
+        }
+
+    </style>
+    <div id="data_summary"></div>
+              <br><br>
+              <p align="left">It is clear that peak Elo ratings have been trending higher over time. There are several hypotheses behind why
+              this is happening. The first is that this is due to overall "ratings inflation". As more and more people play chess,
+              there is a larger pool of rating points for the strongest players to take advantage of. The other hypothesis is that
+              players are just getting stronger. Particuarly with the advent of strong computer engines, players these days are
+              able to train much more effectively. With computers, they can immediately get feedback during training on whether
+              a move is strong or not.</p>
+
+            <p align="left">So let's have a look at the strongest players and how their Elo has evolved. The chart below plots Elo
+                over time for a selection of top grandmasters</p>
+
+    <style>
+        #player_ELO {
+          width: 100%;
+          height: 500px;
+        }
+
+    </style>
+    <div id="player_ELO"></div><br><br>
+       <p align="left">Garry Kasparov is not suprisingly the strongest chess player during the time period examined. Kasparov
+       was world champion from 1985 - 2000 and maintained the highest Elo rating across nearly his entire career.
+       We also see the beginnings of Magnus Carlsen's rapid rise in the ratings - he takes over the #1 spot in 2010.</p>
+
+        <p align="left">But how accurate is Elo in predicting the result of a game? If ratings are an accurate reflection
+        of player performance, we would expect the win rate to increase as the Elo gap increases between two players.
+        One thing Elo does not take into account is the color each player is playing. We saw that white has an advantage
+        in chess, so in a matchup of two equally rated players, the white player should outperform, but from the Elo
+        perspective, chances of victory are exactly even. Let's have a look at the expected scores vs. actual scores.</p>
+
+         <style>
+        #ELO_accuracy {
+          width: 100%;
+          height: 500px;
+        }
+
+    </style>
+    <div id="ELO_accuracy"></div><br><br>
+                  <p align="left">We can see that for the most part, Elo does a pretty good job and predicting the outcome of games on average,
+                  ignoring player color. However, when there are extreme gaps in rating, the lower rated player outperforms expectations.
+                  This concludes the exploration of Elo ratings.</p>
+        </div>
+      </section>
+    </div>
+  </div>
+   <div class="main-wrapper-style1">
+    <div class="inner">
+      <section class="5grid-layout box-feature1">
+        <div class="row">
+          <div class="12u">
+            <header class="first major">
+              <h2>Head to head</h2>
+              <span class="byline">Which players have played each other the most?</span> </header>
+          </div>
+
+
+          <div class="12u">
+            <p align="left">Finally, let's have a look at how often select top grandmasters have played one another, and what the scores were.
+            The graph below contains data on the same grandmasters we saw in the Elo graph above.</p>
+
+    <style>
+        #chord_diagram {
+          width: 100%;
+          height: 700px;
+        }
+
+    </style>
+    <div id="chord_diagram"></div>
+
+      </section>
+    </div>
+  </div>
+</div>
+<div id="footer-wrapper">
+
+</div>
+</body>
+</html>
