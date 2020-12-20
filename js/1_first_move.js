@@ -137,16 +137,14 @@ chart1.cursor.lineX.disabled = true;
 // add legend
 chart1.legend = new am4charts.Legend();
 chart1.legend.reverseOrder = true;
-//chart1.legend.marginLeft = 300;
-//chart1.legend.marginRight = 300;
 series.dummyData = {
-  flag: "../img/e4.png"};
+  flag: "img/e4.png"};
   series2.dummyData = {
-  flag: "../img/d4.png"};
+  flag: "img/d4.png"};
   series3.dummyData = {
-  flag: "../img/Nf3.png"};
+  flag: "img/Nf3.png"};
   series4.dummyData = {
-  flag: "../img/c4.png"};
+  flag: "img/c4.png"};
 
 chart1.legend.useDefaultMarker = true;
 chart1.legend.position = "right"
