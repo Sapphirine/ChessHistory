@@ -140,11 +140,11 @@ chart1.legend.reverseOrder = true;
 series.dummyData = {
   flag: "img/e4.png"};
   series2.dummyData = {
-  flag: "ChessHistory/img/d4.png"};
+  flag: "img/d4.png"};
   series3.dummyData = {
-  flag: "ChessHistory/img/Nf3.png"};
+  flag: "img/Nf3.png"};
   series4.dummyData = {
-  flag: "ChessHistory/img/c4.png"};
+  flag: "img/c4.png"};
 
 chart1.legend.useDefaultMarker = true;
 chart1.legend.position = "right"
