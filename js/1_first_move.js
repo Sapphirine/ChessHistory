@@ -142,9 +142,9 @@ series.dummyData = {
   series2.dummyData = {
   flag: "img/d4.png"};
   series3.dummyData = {
-  flag: "img/Nf3.png"};
+  flag: "img/Nf3.PNG"};
   series4.dummyData = {
-  flag: "img/c4.png"};
+  flag: "img/c4.PNG"};
 
 chart1.legend.useDefaultMarker = true;
 chart1.legend.position = "right"
