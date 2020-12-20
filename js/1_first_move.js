@@ -138,7 +138,7 @@ chart1.cursor.lineX.disabled = true;
 chart1.legend = new am4charts.Legend();
 chart1.legend.reverseOrder = true;
 series.dummyData = {
-  flag: "ChessHistory/img/e444444.png"};
+  flag: "img/e4.png"};
   series2.dummyData = {
   flag: "ChessHistory/img/d4.png"};
   series3.dummyData = {
