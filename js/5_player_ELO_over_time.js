@@ -39,7 +39,7 @@ for (var key in player_ELO) {
         target.numberFormatter.numberFormat = "#.";
     console.log(target.data);
 
-        var url = "<body style='background-color:grey'> <center><strong>{name}</strong></center><img src='../img/"+target.name.replace("'","")+ ".png' style='vertical-align:bottom; margin-right: 10px; width:30px; height:20px;'><hr />ELO: {elo}</body>"
+        var url = "<body style='background-color:grey'> <center><strong>{name}</strong></center><img src='img/"+target.name.replace("'","")+ ".PNG' style='vertical-align:bottom; margin-right: 10px; width:30px; height:20px;'><hr />ELO: {elo}</body>"
         console.log(url)
     return url
 });
