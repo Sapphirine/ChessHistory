@@ -1,0 +1,76 @@
+P1,P2,P1_score,P2_score,total
+"Karpov, Anatoly","Kramnik, Vladimir",16.5,19.5,36.0
+"Anand, Viswanathan","Kramnik, Vladimir",60.0,54.0,114.0
+"Smyslov, Vassily","Taimanov, Mark E",16.0,13.0,29.0
+"Petrosian, Tigran V","Spassky, Boris V",36.5,36.5,73.0
+"Polgar, Judit","Spassky, Boris V",10.0,6.0,16.0
+"Polgar, Judit","Short, Nigel D",15.0,6.0,21.0
+"Spassky, Boris V","Taimanov, Mark E",11.0,9.0,20.0
+"Kortschnoj, Viktor","Smyslov, Vassily",9.5,10.5,20.0
+"Kasparov, Garry","Smyslov, Vassily",11.5,6.5,18.0
+"Petrosian, Tigran V","Taimanov, Mark E",14.5,7.5,22.0
+"Carlsen, Magnus","Short, Nigel D",1.5,1.5,3.0
+"Kasparov, Garry","Spassky, Boris V",4.0,4.0,8.0
+"Short, Nigel D","Taimanov, Mark E",2.0,0.0,2.0
+"Karpov, Anatoly","Tal, Mihail",11.5,10.5,22.0
+"Short, Nigel D","Smyslov, Vassily",3.5,2.5,6.0
+"Carlsen, Magnus","Polgar, Judit",1.0,0.0,1.0
+"Carlsen, Magnus","Kortschnoj, Viktor",0.0,1.0,1.0
+"Aronian, Levon","Nakamura, Hikaru",1.5,1.5,3.0
+"Karpov, Anatoly","Kortschnoj, Viktor",68.0,51.0,119.0
+"Taimanov, Mark E","Tal, Mihail",8.0,12.0,20.0
+"Fischer, Robert James","Spassky, Boris V",31.0,25.0,56.0
+"Anand, Viswanathan","Polgar, Judit",33.0,16.0,49.0
+"Kortschnoj, Viktor","Kramnik, Vladimir",3.5,11.5,15.0
+"Short, Nigel D","Tal, Mihail",4.0,5.0,9.0
+"Kortschnoj, Viktor","Petrosian, Tigran V",34.5,34.5,69.0
+"Kasparov, Garry","Polgar, Judit",14.0,3.0,17.0
+"Kortschnoj, Viktor","Tal, Mihail",24.5,18.5,43.0
+"Karpov, Anatoly","Short, Nigel D",23.5,16.5,40.0
+"Smyslov, Vassily","Tal, Mihail",14.5,12.5,27.0
+"Anand, Viswanathan","Kasparov, Garry",29.5,48.5,78.0
+"Petrosian, Tigran V","Smyslov, Vassily",16.5,15.5,32.0
+"Fischer, Robert James","Petrosian, Tigran V",17.5,11.5,29.0
+"Karpov, Anatoly","Spassky, Boris V",27.5,15.5,43.0
+"Aronian, Levon","Carlsen, Magnus",4.0,2.0,6.0
+"Kortschnoj, Viktor","Short, Nigel D",21.5,22.5,44.0
+"Fischer, Robert James","Tal, Mihail",6.5,6.5,13.0
+"Aronian, Levon","Short, Nigel D",0.5,1.5,2.0
+"Kasparov, Garry","Tal, Mihail",8.5,5.5,14.0
+"Aronian, Levon","Polgar, Judit",0.5,2.5,3.0
+"Aronian, Levon","Karpov, Anatoly",1.5,0.5,2.0
+"Carlsen, Magnus","Karpov, Anatoly",0.5,0.5,1.0
+"Carlsen, Magnus","Nakamura, Hikaru",1.0,1.0,2.0
+"Anand, Viswanathan","Smyslov, Vassily",0.5,0.5,1.0
+"Anand, Viswanathan","Karpov, Anatoly",51.0,35.0,86.0
+"Karpov, Anatoly","Polgar, Judit",31.0,25.0,56.0
+"Kortschnoj, Viktor","Spassky, Boris V",38.5,30.5,69.0
+"Polgar, Judit","Smyslov, Vassily",4.5,3.5,8.0
+"Kasparov, Garry","Kortschnoj, Viktor",27.5,12.5,40.0
+"Kramnik, Vladimir","Polgar, Judit",28.0,8.0,36.0
+"Kasparov, Garry","Kramnik, Vladimir",62.0,61.0,123.0
+"Karpov, Anatoly","Kasparov, Garry",86.5,94.5,181.0
+"Fischer, Robert James","Smyslov, Vassily",7.5,3.5,11.0
+"Anand, Viswanathan","Short, Nigel D",12.0,10.0,22.0
+"Kasparov, Garry","Short, Nigel D",51.0,23.0,74.0
+"Kortschnoj, Viktor","Taimanov, Mark E",18.5,15.5,34.0
+"Fischer, Robert James","Taimanov, Mark E",7.5,0.5,8.0
+"Anand, Viswanathan","Kortschnoj, Viktor",14.5,2.5,17.0
+"Spassky, Boris V","Tal, Mihail",21.0,18.0,39.0
+"Karpov, Anatoly","Taimanov, Mark E",6.0,3.0,9.0
+"Kortschnoj, Viktor","Polgar, Judit",9.5,10.5,20.0
+"Fischer, Robert James","Kortschnoj, Viktor",5.0,5.0,10.0
+"Petrosian, Tigran V","Tal, Mihail",23.0,20.0,43.0
+"Anand, Viswanathan","Tal, Mihail",1.0,0.0,1.0
+"Kasparov, Garry","Petrosian, Tigran V",2.5,2.5,5.0
+"Kramnik, Vladimir","Short, Nigel D",12.0,9.0,21.0
+"Smyslov, Vassily","Spassky, Boris V",12.0,13.0,25.0
+"Anand, Viswanathan","Carlsen, Magnus",3.5,3.5,7.0
+"Karpov, Anatoly","Smyslov, Vassily",9.5,6.5,16.0
+"Short, Nigel D","Spassky, Boris V",6.0,6.0,12.0
+"Aronian, Levon","Kramnik, Vladimir",1.0,2.0,3.0
+"Anand, Viswanathan","Aronian, Levon",2.5,1.5,4.0
+"Carlsen, Magnus","Kasparov, Garry",0.5,2.5,3.0
+"Karpov, Anatoly","Petrosian, Tigran V",7.5,8.5,16.0
+"Anand, Viswanathan","Spassky, Boris V",1.5,0.5,2.0
+"Kramnik, Vladimir","Spassky, Boris V",0.5,0.5,1.0

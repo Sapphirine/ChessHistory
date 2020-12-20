@@ -1,0 +1,313 @@
+decade,opening,white_win,black_win,draw
+1900,Alekhine's Defense,1,0,0
+1920,Alekhine's Defense,16,17,8
+1930,Alekhine's Defense,30,20,18
+1940,Alekhine's Defense,4,4,2
+1950,Alekhine's Defense,31,23,23
+1960,Alekhine's Defense,74,42,71
+1970,Alekhine's Defense,256,194,226
+1980,Alekhine's Defense,161,116,119
+1990,Alekhine's Defense,862,922,744
+2000,Alekhine's Defense,5492,5030,3814
+1900,Bishop's Opening,6,1,3
+1910,Bishop's Opening,4,4,1
+1920,Bishop's Opening,3,2,0
+1930,Bishop's Opening,4,2,4
+1940,Bishop's Opening,3,5,3
+1950,Bishop's Opening,6,5,4
+1960,Bishop's Opening,11,6,9
+1970,Bishop's Opening,31,21,30
+1980,Bishop's Opening,58,40,34
+1990,Bishop's Opening,361,231,240
+2000,Bishop's Opening,3045,2219,1570
+1900,Caro-Kann Defense,7,2,5
+1910,Caro-Kann Defense,8,12,6
+1920,Caro-Kann Defense,29,20,15
+1930,Caro-Kann Defense,79,56,43
+1940,Caro-Kann Defense,18,12,13
+1950,Caro-Kann Defense,69,49,75
+1960,Caro-Kann Defense,202,127,243
+1970,Caro-Kann Defense,293,202,337
+1980,Caro-Kann Defense,328,248,348
+1990,Caro-Kann Defense,2681,2135,2277
+2000,Caro-Kann Defense,17119,13836,13609
+1900,Dutch Defense,2,1,3
+1910,Dutch Defense,3,3,0
+1920,Dutch Defense,5,3,5
+1930,Dutch Defense,14,20,4
+1940,Dutch Defense,4,1,1
+1950,Dutch Defense,25,20,21
+1960,Dutch Defense,57,47,42
+1970,Dutch Defense,67,55,67
+1980,Dutch Defense,89,85,77
+1990,Dutch Defense,1018,728,681
+2000,Dutch Defense,6022,4685,4141
+1900,English Opening,9,4,2
+1910,English Opening,4,5,2
+1920,English Opening,42,25,25
+1930,English Opening,189,95,86
+1940,English Opening,53,29,19
+1950,English Opening,295,180,328
+1960,English Opening,556,340,558
+1970,English Opening,1296,871,1501
+1980,English Opening,913,696,924
+1990,English Opening,5071,3774,4219
+2000,English Opening,29257,23414,23634
+1900,French Defense,33,20,21
+1910,French Defense,21,24,14
+1920,French Defense,40,29,23
+1930,French Defense,143,97,89
+1940,French Defense,46,27,18
+1950,French Defense,158,119,169
+1960,French Defense,304,215,240
+1970,French Defense,692,482,649
+1980,French Defense,659,482,530
+1990,French Defense,4931,3977,3990
+2000,French Defense,34650,28263,25251
+1900,Indian Game,7,5,7
+1910,Indian Game,10,10,2
+1920,Indian Game,142,84,104
+1930,Indian Game,715,550,473
+1940,Indian Game,102,105,63
+1950,Indian Game,746,639,747
+1960,Indian Game,1074,876,1243
+1970,Indian Game,1835,1565,2256
+1980,Indian Game,2447,1856,2327
+1990,Indian Game,13208,10437,11720
+2000,Indian Game,73198,61267,61191
+1900,Italian Game,24,20,10
+1910,Italian Game,9,11,4
+1920,Italian Game,11,9,2
+1930,Italian Game,16,22,7
+1940,Italian Game,13,8,9
+1950,Italian Game,28,30,22
+1960,Italian Game,45,56,42
+1970,Italian Game,104,101,81
+1980,Italian Game,147,106,103
+1990,Italian Game,1225,932,695
+2000,Italian Game,11874,9193,5521
+1900,King's Fianchetto Opening,0,0,2
+1930,King's Fianchetto Opening,0,1,0
+1950,King's Fianchetto Opening,10,5,18
+1960,King's Fianchetto Opening,76,47,59
+1970,King's Fianchetto Opening,149,129,182
+1980,King's Fianchetto Opening,101,70,114
+1990,King's Fianchetto Opening,614,424,499
+2000,King's Fianchetto Opening,3061,2355,2465
+1900,King's Gambit,12,8,4
+1910,King's Gambit,7,7,7
+1920,King's Gambit,5,6,2
+1930,King's Gambit,6,8,4
+1940,King's Gambit,1,7,2
+1950,King's Gambit,9,12,8
+1960,King's Gambit,31,17,15
+1970,King's Gambit,46,40,25
+1980,King's Gambit,44,43,27
+1990,King's Gambit,407,303,177
+2000,King's Gambit,2951,1936,1012
+1900,King's Pawn Opening - Other,11,11,0
+1910,King's Pawn Opening - Other,12,9,4
+1920,King's Pawn Opening - Other,12,6,5
+1930,King's Pawn Opening - Other,14,8,4
+1940,King's Pawn Opening - Other,2,3,0
+1950,King's Pawn Opening - Other,21,15,7
+1960,King's Pawn Opening - Other,51,29,22
+1970,King's Pawn Opening - Other,118,80,83
+1980,King's Pawn Opening - Other,104,66,60
+1990,King's Pawn Opening - Other,1049,731,518
+2000,King's Pawn Opening - Other,8115,5655,3283
+1900,Modern Defense,2,0,0
+1920,Modern Defense,2,0,0
+1930,Modern Defense,2,0,0
+1950,Modern Defense,9,9,4
+1960,Modern Defense,76,87,65
+1970,Modern Defense,315,304,385
+1980,Modern Defense,244,158,187
+1990,Modern Defense,1208,1149,900
+2000,Modern Defense,7130,6737,4960
+1900,Other,4,12,0
+1910,Other,11,6,0
+1920,Other,16,10,5
+1930,Other,21,27,10
+1940,Other,6,9,1
+1950,Other,23,48,41
+1960,Other,58,68,49
+1970,Other,187,205,187
+1980,Other,132,127,69
+1990,Other,1284,1426,1002
+2000,Other,8894,9630,6125
+1900,Petrov's Defense,21,14,9
+1910,Petrov's Defense,9,5,5
+1920,Petrov's Defense,11,4,6
+1930,Petrov's Defense,18,8,2
+1940,Petrov's Defense,2,2,2
+1950,Petrov's Defense,19,6,26
+1960,Petrov's Defense,25,11,45
+1970,Petrov's Defense,78,21,93
+1980,Petrov's Defense,133,75,135
+1990,Petrov's Defense,694,383,701
+2000,Petrov's Defense,6505,3922,5238
+1900,Philidor Defense,4,4,3
+1910,Philidor Defense,5,2,2
+1920,Philidor Defense,1,4,3
+1930,Philidor Defense,8,2,1
+1940,Philidor Defense,3,1,2
+1950,Philidor Defense,5,3,2
+1960,Philidor Defense,21,8,14
+1970,Philidor Defense,58,22,39
+1980,Philidor Defense,51,25,29
+1990,Philidor Defense,419,246,186
+2000,Philidor Defense,3257,1941,1471
+1900,Pirc Defense,1,2,1
+1910,Pirc Defense,0,0,1
+1920,Pirc Defense,3,1,0
+1930,Pirc Defense,4,0,1
+1940,Pirc Defense,3,0,1
+1950,Pirc Defense,50,35,46
+1960,Pirc Defense,95,76,71
+1970,Pirc Defense,284,202,216
+1980,Pirc Defense,256,162,150
+1990,Pirc Defense,1725,1375,1161
+2000,Pirc Defense,12426,9504,7625
+1900,Queen's Gambit Accepted,0,0,2
+1910,Queen's Gambit Accepted,1,0,0
+1930,Queen's Gambit Accepted,24,10,23
+1940,Queen's Gambit Accepted,9,2,5
+1950,Queen's Gambit Accepted,42,26,24
+1960,Queen's Gambit Accepted,73,44,83
+1970,Queen's Gambit Accepted,52,44,71
+1980,Queen's Gambit Accepted,52,27,62
+1990,Queen's Gambit Accepted,561,381,571
+2000,Queen's Gambit Accepted,3485,1976,2684
+1900,Queen's Gambit Declined,55,34,27
+1910,Queen's Gambit Declined,22,9,8
+1920,Queen's Gambit Declined,41,16,47
+1930,Queen's Gambit Declined,145,91,83
+1940,Queen's Gambit Declined,29,16,22
+1950,Queen's Gambit Declined,97,45,88
+1960,Queen's Gambit Declined,135,54,126
+1970,Queen's Gambit Declined,177,97,205
+1980,Queen's Gambit Declined,371,201,273
+1990,Queen's Gambit Declined,2243,1325,1735
+2000,Queen's Gambit Declined,16598,9778,10893
+1900,Queen's Pawn Opening - Other,10,8,5
+1910,Queen's Pawn Opening - Other,24,17,12
+1920,Queen's Pawn Opening - Other,24,15,13
+1930,Queen's Pawn Opening - Other,122,65,66
+1940,Queen's Pawn Opening - Other,14,14,10
+1950,Queen's Pawn Opening - Other,96,87,87
+1960,Queen's Pawn Opening - Other,178,123,163
+1970,Queen's Pawn Opening - Other,335,273,354
+1980,Queen's Pawn Opening - Other,457,341,352
+1990,Queen's Pawn Opening - Other,4232,3334,3349
+2000,Queen's Pawn Opening - Other,26774,21383,18409
+1900,Queen's Pawn Opening - Symmetrical,6,1,4
+1910,Queen's Pawn Opening - Symmetrical,19,18,8
+1920,Queen's Pawn Opening - Symmetrical,39,19,24
+1930,Queen's Pawn Opening - Symmetrical,116,82,63
+1940,Queen's Pawn Opening - Symmetrical,18,11,5
+1950,Queen's Pawn Opening - Symmetrical,36,18,32
+1960,Queen's Pawn Opening - Symmetrical,59,30,68
+1970,Queen's Pawn Opening - Symmetrical,64,35,64
+1980,Queen's Pawn Opening - Symmetrical,106,86,128
+1990,Queen's Pawn Opening - Symmetrical,1017,713,925
+2000,Queen's Pawn Opening - Symmetrical,7496,5569,6222
+1900,Queen's Pawn Opening - Zuckertort,11,4,8
+1910,Queen's Pawn Opening - Zuckertort,20,13,11
+1920,Queen's Pawn Opening - Zuckertort,16,6,10
+1930,Queen's Pawn Opening - Zuckertort,17,28,20
+1940,Queen's Pawn Opening - Zuckertort,5,2,3
+1950,Queen's Pawn Opening - Zuckertort,17,9,9
+1960,Queen's Pawn Opening - Zuckertort,16,6,17
+1970,Queen's Pawn Opening - Zuckertort,25,9,30
+1980,Queen's Pawn Opening - Zuckertort,65,28,57
+1990,Queen's Pawn Opening - Zuckertort,646,488,552
+2000,Queen's Pawn Opening - Zuckertort,4854,3512,3325
+1900,Reti Opening,6,6,2
+1910,Reti Opening,1,0,1
+1920,Reti Opening,54,36,35
+1930,Reti Opening,158,116,100
+1940,Reti Opening,51,33,23
+1950,Reti Opening,302,203,313
+1960,Reti Opening,319,245,390
+1970,Reti Opening,1110,739,1481
+1980,Reti Opening,930,689,1025
+1990,Reti Opening,6324,4406,6087
+2000,Reti Opening,35345,26092,31121
+1900,Ruy Lopez,70,74,40
+1910,Ruy Lopez,59,52,34
+1920,Ruy Lopez,70,42,58
+1930,Ruy Lopez,126,74,65
+1940,Ruy Lopez,56,46,32
+1950,Ruy Lopez,262,173,242
+1960,Ruy Lopez,473,307,495
+1970,Ruy Lopez,902,536,986
+1980,Ruy Lopez,564,378,549
+1990,Ruy Lopez,2508,1535,2080
+2000,Ruy Lopez,18516,11955,14041
+1900,Scandinavian Defense,24,14,11
+1910,Scandinavian Defense,13,6,5
+1920,Scandinavian Defense,7,1,2
+1930,Scandinavian Defense,8,2,4
+1940,Scandinavian Defense,4,3,0
+1950,Scandinavian Defense,13,12,16
+1960,Scandinavian Defense,42,24,31
+1970,Scandinavian Defense,68,52,57
+1980,Scandinavian Defense,72,52,43
+1990,Scandinavian Defense,1514,1209,1194
+2000,Scandinavian Defense,11712,9103,7173
+1900,Scotch Game,15,9,6
+1910,Scotch Game,5,3,4
+1920,Scotch Game,5,3,1
+1930,Scotch Game,5,4,6
+1940,Scotch Game,0,1,2
+1950,Scotch Game,9,13,14
+1960,Scotch Game,57,35,42
+1970,Scotch Game,97,66,105
+1980,Scotch Game,74,47,54
+1990,Scotch Game,857,545,550
+2000,Scotch Game,7363,4663,3917
+1900,Sicilian Defense,37,36,30
+1910,Sicilian Defense,11,5,5
+1920,Sicilian Defense,41,47,21
+1930,Sicilian Defense,167,175,104
+1940,Sicilian Defense,56,45,25
+1950,Sicilian Defense,403,434,452
+1960,Sicilian Defense,1067,1003,1012
+1970,Sicilian Defense,2534,2369,2532
+1980,Sicilian Defense,2006,1982,2015
+1990,Sicilian Defense,14176,13430,11773
+2000,Sicilian Defense,98646,95702,74157
+1900,Slav Defense,1,2,2
+1910,Slav Defense,4,5,0
+1920,Slav Defense,12,7,3
+1930,Slav Defense,108,69,59
+1940,Slav Defense,19,15,16
+1950,Slav Defense,58,26,48
+1960,Slav Defense,79,43,82
+1970,Slav Defense,95,44,140
+1980,Slav Defense,136,73,122
+1990,Slav Defense,1649,1019,1630
+2000,Slav Defense,12305,7901,11266
+1900,Three Knights Opening,13,12,6
+1910,Three Knights Opening,25,18,9
+1920,Three Knights Opening,13,5,12
+1930,Three Knights Opening,15,22,10
+1940,Three Knights Opening,2,5,4
+1950,Three Knights Opening,17,17,27
+1960,Three Knights Opening,26,18,37
+1970,Three Knights Opening,21,29,42
+1980,Three Knights Opening,19,30,39
+1990,Three Knights Opening,436,357,355
+2000,Three Knights Opening,3350,3265,2259
+1900,Vienna Game,22,17,13
+1910,Vienna Game,17,13,4
+1920,Vienna Game,8,10,4
+1930,Vienna Game,16,8,2
+1940,Vienna Game,3,3,0
+1950,Vienna Game,13,8,11
+1960,Vienna Game,38,31,29
+1970,Vienna Game,75,48,71
+1980,Vienna Game,51,38,34
+1990,Vienna Game,375,252,236
+2000,Vienna Game,2951,2081,1427

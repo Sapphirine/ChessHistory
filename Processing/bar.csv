@@ -1,0 +1,465 @@
+decade,opening,f0_
+1850,Other,5
+1850,English Opening,0
+1850,Indian Game,0
+1850,Slav Defense,0
+1850,Dutch Defense,0
+1850,Queen's Gambit Accepted,0
+1850,Queen's Gambit Declined,0
+1850,Queen's Pawn Opening - Other,0
+1850,Queen's Pawn Opening - Zuckertort,0
+1850,Queen's Pawn Opening - Symmetrical,0
+1850,King's Gambit,0
+1850,Rui Lopez,0
+1850,Vienna Game,0
+1850,Italian Game,0
+1850,Pirc Defense,0
+1850,Scotch Game,0
+1850,French Defense,0
+1850,Modern Defense,0
+1850,Bishop's Opening,0
+1850,Petrov's Defense,0
+1850,Philidor Defense,0
+1850,Sicilian Defense,0
+1850,Caro-Kann Defense,0
+1850,Alekhine's Defense,0
+1850,Scandinavian Defense,0
+1850,Three Knights Opening,0
+1850,King's Pawn Opening - Other,0
+1850,King's Fianchetto Opening,0
+1850,Reti Opening,0
+1860,Other,15
+1860,English Opening,11
+1860,Indian Game,0
+1860,Slav Defense,0
+1860,Dutch Defense,6
+1860,Queen's Gambit Accepted,0
+1860,Queen's Gambit Declined,0
+1860,Queen's Pawn Opening - Other,1
+1860,Queen's Pawn Opening - Zuckertort,0
+1860,Queen's Pawn Opening - Symmetrical,0
+1860,King's Gambit,25
+1860,Rui Lopez,64
+1860,Vienna Game,5
+1860,Italian Game,95
+1860,Pirc Defense,1
+1860,Scotch Game,20
+1860,French Defense,19
+1860,Modern Defense,1
+1860,Bishop's Opening,8
+1860,Petrov's Defense,7
+1860,Philidor Defense,8
+1860,Sicilian Defense,30
+1860,Caro-Kann Defense,0
+1860,Alekhine's Defense,0
+1860,Scandinavian Defense,3
+1860,Three Knights Opening,0
+1860,King's Pawn Opening - Other,23
+1860,King's Fianchetto Opening,0
+1860,Reti Opening,2
+1870,Other,46
+1870,English Opening,36
+1870,Indian Game,0
+1870,Slav Defense,1
+1870,Dutch Defense,15
+1870,Queen's Gambit Accepted,9
+1870,Queen's Gambit Declined,15
+1870,Queen's Pawn Opening - Other,17
+1870,Queen's Pawn Opening - Zuckertort,0
+1870,Queen's Pawn Opening - Symmetrical,0
+1870,King's Gambit,54
+1870,Rui Lopez,139
+1870,Vienna Game,67
+1870,Italian Game,76
+1870,Pirc Defense,2
+1870,Scotch Game,38
+1870,French Defense,117
+1870,Modern Defense,2
+1870,Bishop's Opening,5
+1870,Petrov's Defense,20
+1870,Philidor Defense,19
+1870,Sicilian Defense,50
+1870,Caro-Kann Defense,0
+1870,Alekhine's Defense,0
+1870,Scandinavian Defense,10
+1870,Three Knights Opening,40
+1870,King's Pawn Opening - Other,13
+1870,King's Fianchetto Opening,0
+1870,Reti Opening,0
+1880,Other,63
+1880,English Opening,42
+1880,Indian Game,7
+1880,Slav Defense,5
+1880,Dutch Defense,21
+1880,Queen's Gambit Accepted,4
+1880,Queen's Gambit Declined,51
+1880,Queen's Pawn Opening - Other,59
+1880,Queen's Pawn Opening - Zuckertort,7
+1880,Queen's Pawn Opening - Symmetrical,10
+1880,King's Gambit,49
+1880,Rui Lopez,302
+1880,Vienna Game,91
+1880,Italian Game,116
+1880,Pirc Defense,12
+1880,Scotch Game,84
+1880,French Defense,216
+1880,Modern Defense,6
+1880,Bishop's Opening,11
+1880,Petrov's Defense,39
+1880,Philidor Defense,16
+1880,Sicilian Defense,144
+1880,Caro-Kann Defense,8
+1880,Alekhine's Defense,0
+1880,Scandinavian Defense,31
+1880,Three Knights Opening,55
+1880,King's Pawn Opening - Other,90
+1880,King's Fianchetto Opening,0
+1880,Reti Opening,44
+1890,Other,16
+1890,English Opening,6
+1890,Indian Game,2
+1890,Slav Defense,1
+1890,Dutch Defense,9
+1890,Queen's Gambit Accepted,6
+1890,Queen's Gambit Declined,58
+1890,Queen's Pawn Opening - Other,44
+1890,Queen's Pawn Opening - Zuckertort,9
+1890,Queen's Pawn Opening - Symmetrical,10
+1890,King's Gambit,15
+1890,Rui Lopez,117
+1890,Vienna Game,31
+1890,Italian Game,60
+1890,Pirc Defense,3
+1890,Scotch Game,10
+1890,French Defense,56
+1890,Modern Defense,3
+1890,Bishop's Opening,3
+1890,Petrov's Defense,21
+1890,Philidor Defense,6
+1890,Sicilian Defense,23
+1890,Caro-Kann Defense,6
+1890,Alekhine's Defense,0
+1890,Scandinavian Defense,8
+1890,Three Knights Opening,3
+1890,King's Pawn Opening - Other,21
+1890,King's Fianchetto Opening,1
+1890,Reti Opening,11
+1900,Other,16
+1900,English Opening,15
+1900,Indian Game,19
+1900,Slav Defense,5
+1900,Dutch Defense,6
+1900,Queen's Gambit Accepted,2
+1900,Queen's Gambit Declined,116
+1900,Queen's Pawn Opening - Other,23
+1900,Queen's Pawn Opening - Zuckertort,23
+1900,Queen's Pawn Opening - Symmetrical,11
+1900,King's Gambit,24
+1900,Rui Lopez,184
+1900,Vienna Game,52
+1900,Italian Game,54
+1900,Pirc Defense,4
+1900,Scotch Game,30
+1900,French Defense,74
+1900,Modern Defense,2
+1900,Bishop's Opening,10
+1900,Petrov's Defense,44
+1900,Philidor Defense,11
+1900,Sicilian Defense,103
+1900,Caro-Kann Defense,14
+1900,Alekhine's Defense,1
+1900,Scandinavian Defense,49
+1900,Three Knights Opening,31
+1900,King's Pawn Opening - Other,22
+1900,King's Fianchetto Opening,2
+1900,Reti Opening,14
+1910,Other,17
+1910,English Opening,11
+1910,Indian Game,22
+1910,Slav Defense,9
+1910,Dutch Defense,6
+1910,Queen's Gambit Accepted,1
+1910,Queen's Gambit Declined,39
+1910,Queen's Pawn Opening - Other,53
+1910,Queen's Pawn Opening - Zuckertort,44
+1910,Queen's Pawn Opening - Symmetrical,45
+1910,King's Gambit,21
+1910,Rui Lopez,145
+1910,Vienna Game,34
+1910,Italian Game,24
+1910,Pirc Defense,1
+1910,Scotch Game,12
+1910,French Defense,59
+1910,Modern Defense,0
+1910,Bishop's Opening,9
+1910,Petrov's Defense,19
+1910,Philidor Defense,9
+1910,Sicilian Defense,21
+1910,Caro-Kann Defense,26
+1910,Alekhine's Defense,0
+1910,Scandinavian Defense,24
+1910,Three Knights Opening,52
+1910,King's Pawn Opening - Other,25
+1910,King's Fianchetto Opening,0
+1910,Reti Opening,2
+1920,Other,31
+1920,English Opening,92
+1920,Indian Game,330
+1920,Slav Defense,22
+1920,Dutch Defense,13
+1920,Queen's Gambit Accepted,0
+1920,Queen's Gambit Declined,104
+1920,Queen's Pawn Opening - Other,52
+1920,Queen's Pawn Opening - Zuckertort,32
+1920,Queen's Pawn Opening - Symmetrical,82
+1920,King's Gambit,13
+1920,Rui Lopez,170
+1920,Vienna Game,22
+1920,Italian Game,22
+1920,Pirc Defense,4
+1920,Scotch Game,9
+1920,French Defense,92
+1920,Modern Defense,2
+1920,Bishop's Opening,5
+1920,Petrov's Defense,21
+1920,Philidor Defense,8
+1920,Sicilian Defense,109
+1920,Caro-Kann Defense,64
+1920,Alekhine's Defense,41
+1920,Scandinavian Defense,10
+1920,Three Knights Opening,30
+1920,King's Pawn Opening - Other,23
+1920,King's Fianchetto Opening,0
+1920,Reti Opening,125
+1930,Other,58
+1930,English Opening,370
+1930,Indian Game,1738
+1930,Slav Defense,236
+1930,Dutch Defense,38
+1930,Queen's Gambit Accepted,57
+1930,Queen's Gambit Declined,319
+1930,Queen's Pawn Opening - Other,253
+1930,Queen's Pawn Opening - Zuckertort,65
+1930,Queen's Pawn Opening - Symmetrical,261
+1930,King's Gambit,18
+1930,Rui Lopez,265
+1930,Vienna Game,26
+1930,Italian Game,45
+1930,Pirc Defense,5
+1930,Scotch Game,15
+1930,French Defense,329
+1930,Modern Defense,2
+1930,Bishop's Opening,10
+1930,Petrov's Defense,28
+1930,Philidor Defense,11
+1930,Sicilian Defense,446
+1930,Caro-Kann Defense,178
+1930,Alekhine's Defense,68
+1930,Scandinavian Defense,14
+1930,Three Knights Opening,47
+1930,King's Pawn Opening - Other,26
+1930,King's Fianchetto Opening,1
+1930,Reti Opening,374
+1940,Other,16
+1940,English Opening,101
+1940,Indian Game,270
+1940,Slav Defense,50
+1940,Dutch Defense,6
+1940,Queen's Gambit Accepted,16
+1940,Queen's Gambit Declined,67
+1940,Queen's Pawn Opening - Other,38
+1940,Queen's Pawn Opening - Zuckertort,10
+1940,Queen's Pawn Opening - Symmetrical,34
+1940,King's Gambit,10
+1940,Rui Lopez,134
+1940,Vienna Game,6
+1940,Italian Game,30
+1940,Pirc Defense,4
+1940,Scotch Game,3
+1940,French Defense,91
+1940,Modern Defense,0
+1940,Bishop's Opening,11
+1940,Petrov's Defense,6
+1940,Philidor Defense,6
+1940,Sicilian Defense,126
+1940,Caro-Kann Defense,43
+1940,Alekhine's Defense,10
+1940,Scandinavian Defense,7
+1940,Three Knights Opening,11
+1940,King's Pawn Opening - Other,5
+1940,King's Fianchetto Opening,0
+1940,Reti Opening,107
+1950,Other,112
+1950,English Opening,803
+1950,Indian Game,2132
+1950,Slav Defense,132
+1950,Dutch Defense,66
+1950,Queen's Gambit Accepted,92
+1950,Queen's Gambit Declined,230
+1950,Queen's Pawn Opening - Other,270
+1950,Queen's Pawn Opening - Zuckertort,35
+1950,Queen's Pawn Opening - Symmetrical,86
+1950,King's Gambit,29
+1950,Rui Lopez,677
+1950,Vienna Game,32
+1950,Italian Game,80
+1950,Pirc Defense,131
+1950,Scotch Game,36
+1950,French Defense,446
+1950,Modern Defense,22
+1950,Bishop's Opening,15
+1950,Petrov's Defense,51
+1950,Philidor Defense,10
+1950,Sicilian Defense,1289
+1950,Caro-Kann Defense,193
+1950,Alekhine's Defense,77
+1950,Scandinavian Defense,41
+1950,Three Knights Opening,61
+1950,King's Pawn Opening - Other,43
+1950,King's Fianchetto Opening,33
+1950,Reti Opening,818
+1960,Other,175
+1960,English Opening,1454
+1960,Indian Game,3193
+1960,Slav Defense,204
+1960,Dutch Defense,146
+1960,Queen's Gambit Accepted,200
+1960,Queen's Gambit Declined,315
+1960,Queen's Pawn Opening - Other,464
+1960,Queen's Pawn Opening - Zuckertort,39
+1960,Queen's Pawn Opening - Symmetrical,157
+1960,King's Gambit,63
+1960,Rui Lopez,1275
+1960,Vienna Game,98
+1960,Italian Game,143
+1960,Pirc Defense,242
+1960,Scotch Game,134
+1960,French Defense,759
+1960,Modern Defense,228
+1960,Bishop's Opening,26
+1960,Petrov's Defense,81
+1960,Philidor Defense,43
+1960,Sicilian Defense,3082
+1960,Caro-Kann Defense,572
+1960,Alekhine's Defense,187
+1960,Scandinavian Defense,97
+1960,Three Knights Opening,81
+1960,King's Pawn Opening - Other,102
+1960,King's Fianchetto Opening,182
+1960,Reti Opening,954
+1970,Other,579
+1970,English Opening,3668
+1970,Indian Game,5656
+1970,Slav Defense,279
+1970,Dutch Defense,189
+1970,Queen's Gambit Accepted,167
+1970,Queen's Gambit Declined,479
+1970,Queen's Pawn Opening - Other,962
+1970,Queen's Pawn Opening - Zuckertort,64
+1970,Queen's Pawn Opening - Symmetrical,163
+1970,King's Gambit,111
+1970,Rui Lopez,2424
+1970,Vienna Game,194
+1970,Italian Game,286
+1970,Pirc Defense,702
+1970,Scotch Game,268
+1970,French Defense,1823
+1970,Modern Defense,1004
+1970,Bishop's Opening,82
+1970,Petrov's Defense,192
+1970,Philidor Defense,119
+1970,Sicilian Defense,7435
+1970,Caro-Kann Defense,832
+1970,Alekhine's Defense,676
+1970,Scandinavian Defense,177
+1970,Three Knights Opening,92
+1970,King's Pawn Opening - Other,281
+1970,King's Fianchetto Opening,460
+1970,Reti Opening,3330
+1980,Other,328
+1980,English Opening,2533
+1980,Indian Game,6630
+1980,Slav Defense,331
+1980,Dutch Defense,251
+1980,Queen's Gambit Accepted,141
+1980,Queen's Gambit Declined,845
+1980,Queen's Pawn Opening - Other,1150
+1980,Queen's Pawn Opening - Zuckertort,150
+1980,Queen's Pawn Opening - Symmetrical,320
+1980,King's Gambit,114
+1980,Rui Lopez,1491
+1980,Vienna Game,123
+1980,Italian Game,356
+1980,Pirc Defense,568
+1980,Scotch Game,175
+1980,French Defense,1671
+1980,Modern Defense,589
+1980,Bishop's Opening,132
+1980,Petrov's Defense,343
+1980,Philidor Defense,105
+1980,Sicilian Defense,6003
+1980,Caro-Kann Defense,924
+1980,Alekhine's Defense,396
+1980,Scandinavian Defense,167
+1980,Three Knights Opening,88
+1980,King's Pawn Opening - Other,230
+1980,King's Fianchetto Opening,285
+1980,Reti Opening,2644
+1990,Other,3712
+1990,English Opening,13064
+1990,Indian Game,35365
+1990,Slav Defense,4298
+1990,Dutch Defense,2427
+1990,Queen's Gambit Accepted,1513
+1990,Queen's Gambit Declined,5303
+1990,Queen's Pawn Opening - Other,10915
+1990,Queen's Pawn Opening - Zuckertort,1686
+1990,Queen's Pawn Opening - Symmetrical,2655
+1990,King's Gambit,887
+1990,Rui Lopez,6123
+1990,Vienna Game,863
+1990,Italian Game,2852
+1990,Pirc Defense,4261
+1990,Scotch Game,1952
+1990,French Defense,12898
+1990,Modern Defense,3257
+1990,Bishop's Opening,832
+1990,Petrov's Defense,1778
+1990,Philidor Defense,851
+1990,Sicilian Defense,39379
+1990,Caro-Kann Defense,7093
+1990,Alekhine's Defense,2528
+1990,Scandinavian Defense,3917
+1990,Three Knights Opening,1148
+1990,King's Pawn Opening - Other,2298
+1990,King's Fianchetto Opening,1537
+1990,Reti Opening,16817
+2000,Other,24649
+2000,English Opening,76305
+2000,Indian Game,195656
+2000,Slav Defense,31472
+2000,Dutch Defense,14848
+2000,Queen's Gambit Accepted,8145
+2000,Queen's Gambit Declined,37269
+2000,Queen's Pawn Opening - Other,66566
+2000,Queen's Pawn Opening - Zuckertort,11691
+2000,Queen's Pawn Opening - Symmetrical,19287
+2000,King's Gambit,5899
+2000,Rui Lopez,44512
+2000,Vienna Game,6459
+2000,Italian Game,26588
+2000,Pirc Defense,29555
+2000,Scotch Game,15943
+2000,French Defense,88164
+2000,Modern Defense,18827
+2000,Bishop's Opening,6834
+2000,Petrov's Defense,15665
+2000,Philidor Defense,6669
+2000,Sicilian Defense,268505
+2000,Caro-Kann Defense,44564
+2000,Alekhine's Defense,14336
+2000,Scandinavian Defense,27988
+2000,Three Knights Opening,8874
+2000,King's Pawn Opening - Other,17053
+2000,King's Fianchetto Opening,7881
+2000,Reti Opening,92558
